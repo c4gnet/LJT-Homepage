@@ -11,54 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Computer Science**, Hong Kong University of Science and Technology, 2024 – Present
+* **B.Eng.**, Shanghai Jiao Tong University, 2020 – 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* February 2025 – Present: Research Intern
+  * MINIMAX
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2024 – September 2024: Research Intern
+  * Tencent WXG
+  * Supervisor: Zifei Shan
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* June 2023 – December 2023: Research Intern
+  * Shanghai AI Lab
+  * Supervisor: Prof. Yu Cheng
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Honors and Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
+
+Skills
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* LLM reasoning and reinforcement learning
+* Hallucination in vision-language models
+* LLM truthfulness and interpretability
+* Natural language processing and machine learning
+
+Contact
 ======
-* Currently signed in to 43 different slack teams
+* Email: jliugi@connect.ust.hk
+* GitHub: [github.com/Vicent0205](https://github.com/Vicent0205)
+* X (Twitter): [@junteng88716710](https://x.com/junteng88716710)
+* Google Scholar: [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
